@@ -1,0 +1,10 @@
+{
+  "name": "davidcamargo",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "1.9.1",
+    "requirejs": "~2.1.5",
+    "normalize-css": "~2.1.1",
+    "html5shiv": "~3.6.2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "tutorya",
+  "version": "0.0.1",
+  "description": "Tutorya Grunt File",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/monoku/tutorya.git"
+  },
+  "author": "@PixelHorror",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "fbc1bb9bafb57455e098c1acca99077402de9f47",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-compass": "~0.2.0",
+    "grunt-contrib-watch": "~0.3.1",
+    "grunt-shell": "~0.2.2",
+    "grunt-contrib-requirejs": "~0.4.0",
+    "grunt-contrib-clean": "~0.4.1"
+  }
+}
